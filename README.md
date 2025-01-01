@@ -20,5 +20,5 @@ This project is a computational exploration of concepts from the book *Basic Mat
 ├── book/                # Quarto files and rendered documents
 ├── data/                # Example datasets, if applicable
 ├── plots/               # Generated visualizations
-└── README.md            # Project overview```
+└── README.md            # Project overview
 

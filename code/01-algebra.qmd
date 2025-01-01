@@ -1,0 +1,57 @@
+---
+title: "Part 1:  Algebra"
+author: "Mardan Mirzaguliyev"
+format: html
+editor: visual
+date: 2025/01/01
+---
+
+# INTRODUCTION
+
+In this series, I will try to carry the concepts of mathematics to R code using Quarto. I started reading and practicing math from the book Basic Mathematics by Serge Lange and this series will follow the order in which the author presented the topics in the book. The book is divided into 4 parts and 17 chapters. I intend to include the appropriate chapters in one Quarto file for each part. Chapter 1, Chapter 2, Chapter 3, Chapter 4 are inside first part which is Algebra. Part two is called Intuitive Geometry which consists of Chapter 5, 6, and 7. Third part is Coordinate Geometry with chapters 8, 9, 10, 11, 12. Fourth part is Miscellaneous including chapters 13, 14, 15, 16, 17. The names of chapters are as follows:
+
+1.  Numbers
+
+2.  Linear Equations
+
+3.  Real Numbers
+
+4.  Quadratic Equations
+
+5.  Distance and Angles
+
+6.  Isometrics
+
+7.  Area and Applications
+
+8.  Coordinates and Geometry
+
+9.  Operations on Points
+
+10. Segments, Rays, and Lines
+
+11. Trigonometry
+
+12. Some Analytic Geometry
+
+13. Functions
+
+14. Mappings
+
+15. Complex Numbers
+
+16. Induction and Summations
+
+17. Determinants
+
+# NUMBERS
+
+## The integers
+
+```{r}
+#| label: integers
+integers <- c(0, 1, 2, 3, 4, 5, Inf)
+integers
+```
+
+## 

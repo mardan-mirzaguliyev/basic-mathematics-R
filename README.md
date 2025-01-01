@@ -14,13 +14,11 @@ This project is a computational exploration of concepts from the book *Basic Mat
 - **Visualizations**: Graphs and plots illustrating key ideas from geometry, algebra, and calculus.
 
 ## **Structure**
-
+```plaintext
 /basic-mathematics-R
-
-│
 ├── code/                # Quarto files with code chunks and some notes
 ├── book/                # Quarto files and rendered documents
 ├── data/                # Example datasets, if applicable
 ├── plots/               # Generated visualizations
-└── README.md            # Project overview
+└── README.md            # Project overview```
 

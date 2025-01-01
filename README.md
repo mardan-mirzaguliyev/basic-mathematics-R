@@ -16,6 +16,7 @@ This project is a computational exploration of concepts from the book *Basic Mat
 ## **Structure**
 
 /basic-mathematics-R
+
 │
 ├── code/                # Quarto files with code chunks and some notes
 ├── book/                # Quarto files and rendered documents
